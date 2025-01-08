@@ -1,4 +1,4 @@
-# Hi there, I'm Will Hurley! 👋
+# Hi there, I'm William Hurley! 👋
 
 Welcome to my profile! Here’s what I’m currently working on:
 - 💻 Developing solutions for Leetcode challenges to sharpen my problem-solving skills.
