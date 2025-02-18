@@ -9,7 +9,7 @@ Welcome to my profile! Here’s what I’m currently working on:
 - LinkedIn: [wdhurleyjr](https://www.linkedin.com/in/wdhurleyjr/)
 
 🚀 **Tech Stack:**
-- Java, Python, JavaScript
+- Java, Python, JavaScript, HTML
 - React Native, Spring Boot
 - Docker, MongoDB, Heroku, AWS S3
 
