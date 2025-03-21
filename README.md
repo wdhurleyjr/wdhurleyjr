@@ -11,7 +11,7 @@ Welcome to my profile! Here’s what I’m currently working on:
 
 🚀 **Tech Stack:**
 - Java, Python, JavaScript, HTML, CSS
-- React Native, Spring Boot
+- React Native, Spring Boot, Node.js
 - Docker, MongoDB, Heroku, AWS S3
 
 📖 **Favorite Quote:**
